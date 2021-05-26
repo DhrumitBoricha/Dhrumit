@@ -159,8 +159,8 @@ h1, h2, h3, h4, h5, h6 {
 .img-box figure img {
      box-shadow: #308409 0px 0px 0px 0px;
 	 display: block;
-	position; absoulte;
-   	width: 305%;
+	
+   	width: 35%;
 	heigth: 80%;
 	right: 100px;
 	left: 33%;

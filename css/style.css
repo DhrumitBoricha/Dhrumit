@@ -590,7 +590,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   font-size: 32px;
   color: #fff;
   text-transform: uppercase;
-  text-align: left;
+  
   font-weight: 700;
  
  position: relative;
@@ -602,7 +602,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 
 .section-headerer h4 {
-  text-align: left;
+  
   padding-bottom: 30px;
   position: relative;
   left: 50px;

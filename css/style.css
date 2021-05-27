@@ -605,6 +605,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   padding-bottom: 30px;
   position: relative;
   left: 50px;
+  top: 400px;
   color: #fff;
 }
 

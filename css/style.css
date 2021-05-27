@@ -131,6 +131,12 @@ h1, h2, h3, h4, h5, h6 {
 # Intro Section
 --------------------------------------------------------------*/
 
+#intro {
+  display: table;
+  width: 70px;
+  height: 50vh;
+  background: #000;
+}
 
 #intro .carousel-item::before {
   content: '';

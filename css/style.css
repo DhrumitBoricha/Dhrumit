@@ -594,8 +594,8 @@ body.mobile-nav-active #mobile-nav-toggle {
   font-weight: 700;
  
  position: relative;
-  left: 50px;
-  top: 400px;
+  left: 100px;
+  top: 1000px;
   padding-bottom: -1000px;
 }
 
